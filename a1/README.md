@@ -1,2 +1,3 @@
-# A1: Arrays and Linked Lists<p>
-This project was assigned to give a better grasp on the differences between arrays and linked lists. The data was stored in a file defined by the user. ds_memory contains functions that handled the file, ds_array contains functions that handle the arrays and ds_list contains functions that handle the lists. The array and list had to insert, delete, swap and replace elements as well as keep track of the number of times the program reads and writes. Results for each can be found in the report analysis.pdf.
+# A1<p>
+This project was assigned to give a better grasp on the differences between arrays and linked lists. The data was stored in a file defined by the user. ds_memory contains functions that handled the file, ds_array contains functions that handle the arrays and ds_list contains functions that handle the lists. The array and list had to insert, delete, swap and replace elements as well as keep track of the number of times the program reads and writes.<p>
+  A number of tests were performed insertion, deletion, replacement and swapping for both arrays and linked lists. Results for each can be found in the report analysis.pdf.
